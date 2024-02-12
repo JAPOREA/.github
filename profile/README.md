@@ -4,8 +4,7 @@
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?<br>
-🌈 Contribution guidelines - how can the community get involved?<br>
+🙋‍♀️ Hey welcome to JapoRea, a club for Asian Culture lovers.<br>
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?<br>
-🍿 Fun facts - what does your team eat for breakfast?<br>
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🍿 Fun facts - We watch anime at breakfast !!<br>
+🧙 Remember, LOFI 3AMEK !!
